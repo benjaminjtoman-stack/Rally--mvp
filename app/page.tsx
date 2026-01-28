@@ -3,7 +3,6 @@ export default function Home() {
     <main style={{ maxWidth: 720, margin: "40px auto" }}>
       <h1>Rally</h1>
       <p><b>Play. Rank. Rise.</b></p>
-      <p>Rally Bristol pilot.</p>
     </main>
   );
 }
